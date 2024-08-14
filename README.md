@@ -11,7 +11,7 @@ Features:
 
 Installation Instructions:
 1. Use the following command to clone the repository to your local machine:
-   git clone https://github.com/your-username/Sales-Overview-Dashboard.git
+   git clone https://github.com/raghav1914/Sales-Overview.git
 2. Download the Power BI File: Navigate to the folder in the repository where the Power BI file (.pbix) is located. Click on the file to download it to your computer.
 3. Open in Power BI: Open the downloaded Power BI file using Power BI Desktop.
 
